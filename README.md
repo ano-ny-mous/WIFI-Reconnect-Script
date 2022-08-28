@@ -1,6 +1,6 @@
 # WIFI-Reconnect-Script
 
-Automatically WI-FI reconnect bash script.
+Automatically WI-FI reconnect script.
 
 "IP ADDRESS" : IP or web address you want to ping.(www.google.com)
 
